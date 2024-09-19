@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blackscatter.github.io/wild/sitemap.xml
